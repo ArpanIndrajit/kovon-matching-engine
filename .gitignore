@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+.eggs/
+.pytest_cache/
+.env
+.env.*
+venv/
+.venv/
+# macOS
+.DS_Store
+# Virtual environments
+ENV/
+env/
+build/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+
+# SQLite DB
+*.sqlite3
+
+# Chroma DB data folder
+chroma_db/
